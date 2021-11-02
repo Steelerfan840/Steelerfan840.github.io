@@ -25,7 +25,7 @@
         <main class="box">
           <div class="heading">
             <h1>Shawn Campbell</h1>
-            <p class="jobTitle">Freelance Web Designer and App Builder</p>
+            <p class="jobTitle">Free Web Designer and App Builder</p>
           </div>
           <div class="pic">
             <img
