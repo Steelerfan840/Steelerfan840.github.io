@@ -56,7 +56,7 @@
                   >
                 </p>
               </li>
-              <li class="wvlink">
+              <li class="wv2link">
                 You can eMail me at shawn@wabashvalleywebdesign.com
               </li>
               <li class="wvlink">
@@ -65,9 +65,9 @@
                   on the Social Media Icons below or find me by the usernames
                   listed:
                 </p>
-                <ul class="wvlink2">
-                  <li>Linkedin: Shawn Campbell</li>
-                  <li>GitHub: Steelerfan840</li>
+                <ul class="wvlink">
+                  <li class="wv2link">Linkedin: Shawn Campbell</li>
+                  <li class="wv2link">GitHub: Steelerfan840</li>
                 </ul>
               </li>
             </ul>
