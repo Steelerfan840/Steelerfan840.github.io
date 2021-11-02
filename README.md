@@ -1,24 +1,13 @@
 # Shawn Campbell's Portfolio
 ## Projects I've made
 <a href="http://steelerfan840.github.io/moving_eyes">Moving_Eyes Repository</a>
-
-
-<!DOCTYPE html5>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shawn Campbell's Portfolio</title>
-    <link rel="stylesheet" href="styles.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-  </head>
-  <body>
-    <!-----Begin Header Area------->
-    <div class="wrapper">
+ 
+ <link rel="stylesheet" href="styles.css" />
+ <link rel="stylesheet"
+ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  
+    
+ <div class="wrapper">
       <div class="navigation">
         <div class="topnav" id="myTopnav">
           <a href="#home" class="active">Home</a>
@@ -98,6 +87,5 @@
       </div>
     </div>
 
-    <script src="scripts.js"></script>
-  </body>
-</html>
+   <script src="scripts.js"></script>
+  
