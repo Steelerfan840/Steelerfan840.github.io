@@ -10,8 +10,8 @@
  <div class="wrapper">
       <div class="navigation">
         <div class="topnav" id="myTopnav">
-          <a href="#home" class="active">Home</a>
-          <a href="https://www.shawnweb.net">Projects</a>
+          <a href="https://www.shawnweb.net">Home</a>
+          <a href="https://www.shawnweb.net/projects">Projects</a>
 
           <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
