@@ -105,7 +105,7 @@ a:active {
   grid-auto-rows: minmax(100px, auto);
   border: #ffffff;
   border-style: solid;
-  border-width: 10px;
+  border-width: 0px;
   margin-top: 200px;
 }
 .middle {
@@ -118,7 +118,7 @@ a:active {
 
 .middleProjects {
   grid-column: 2 / 3;
-  grid-row: 4 / 15;
+  grid-row: 9/ 20;
   border: #ff0000;
   border-style: solid;
   border-width: 0px;
