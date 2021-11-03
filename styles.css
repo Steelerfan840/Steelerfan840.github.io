@@ -142,10 +142,10 @@ a:active {
   border-radius: 25px;
   text-align: center;
   margin-top: 75px;
-  position: absolute;
+/*   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   padding: 20px 20px 20px 20px;
 }
 
@@ -158,10 +158,10 @@ max-width: 400px;
   border-radius: 25px;
   text-align: center;
   margin-top: 300px;
-  position: absolute;
+/*   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   padding: 20px 20px 20px 20px;
 }
 
