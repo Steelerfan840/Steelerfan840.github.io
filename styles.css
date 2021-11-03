@@ -182,6 +182,23 @@ a:active {
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
 }
 
+.subheading {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  font-size: 1.2em;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 25px;
+  text-align: center;
+  padding: 0px 5px 5px 5px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+}
+
 h1 {
   font-weight: 0;
 }
