@@ -141,7 +141,7 @@ a:active {
   border-color: black;
   border-radius: 25px;
   text-align: center;
-  margin-top: 350px;
+  margin-top: 20px;
 /*   position: absolute;
   top: 50%;
   left: 50%;
@@ -157,11 +157,11 @@ a:active {
   border-color: black;
   border-radius: 25px;
   text-align: center;
-  margin-top: 350px;
-  position: absolute;
+  margin-top: 0px;
+/*   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   padding: 20px 20px 20px 20px;
 }
 
