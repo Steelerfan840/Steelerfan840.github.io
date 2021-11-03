@@ -151,7 +151,7 @@ a:active {
 
 .boxProjects {
   background-color: transparent;
-
+max-width: 400px;
   border-width: 0px;
   border-style: solid;
   border-color: #000;
@@ -170,6 +170,7 @@ a:active {
   color: #ffffff;
   text-shadow: 2px 2px #000000;
   font-size: 1.2em;
+   max-width: 400px;
   border-width: 2px;
   border-style: solid;
   border-color: black;
