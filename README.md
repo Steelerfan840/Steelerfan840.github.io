@@ -1,5 +1,5 @@
 
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,8 +15,8 @@
     <div class="wrapper">
       <div class="navigation">
         <div class="topnav" id="myTopnav">
-          <a href="http://steelerfan840.github.io">Home</a>
-          <a href="http://steelerfan840.github.io/projects">Projects</a>
+          <a href="#home" class="active">Home</a>
+          <a href="https://www.shawnweb.net">Projects</a>
 
           <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
@@ -24,7 +24,6 @@
         </div>
       </div>
     </div>
- 
     <div class="wrapper2">
       <!-----Begin Main Area------->
       <div class="middle">
@@ -40,37 +39,44 @@
             />
           </div>
           <div class="about">
-            <p class="aboutText">
-              My name is Shawn Campbell. I have been building websites and
-              working with code for 26 years. I built my first website in 1995.
-              I am enrolled in MiT (Massachusetts Institute of Technology), and
-              am studying Full Stack Development. Coding is a passion of mine
-              and I enjoy designing, coding, and troubleshooting the Web.
-            </p>
-            <ul>
-              <li class="wvlink">
-                <p class="wvLink">
-                  If you are interested in a website or app please visit
-                  <a href="https://www.wabashvalleywebdesign.com"
-                    >Wabash Valley Web Design</a
-                  >
-                </p>
-              </li>
-              <li class="wv2link">
-                You can eMail me at shawn@wabashvalleywebdesign.com
-              </li>
-              <li class="wvlink">
-                <p class="wvLink">
-                  If you want to learn more about me or my skills please click
-                  on the Social Media Icons below or find me by the usernames
-                  listed:
-                </p>
-                <ul class="wvlink">
-                  <li class="wv2link">Linkedin: Shawn Campbell</li>
-                  <li class="wv2link">GitHub: Steelerfan840</li>
-                </ul>
-              </li>
-            </ul>
+            <div class="subheading">
+              <p class="aboutText">
+                My name is Shawn Campbell. I have been building websites and
+                working with code for 26 years. I built my first website in
+                1995. I am enrolled in MiT (Massachusetts Institute of
+                Technology), and am studying Full Stack Development. Coding is a
+                passion of mine and I enjoy designing, coding, and
+                troubleshooting the Web.
+              </p>
+            </div>
+            <div class="subheading">
+              <ul>
+                <li class="wvlink">
+                  <p class="wvLink">
+                    If you are interested in a website or app please visit
+                    <a href="https://www.wabashvalleywebdesign.com"
+                      >Wabash Valley Web Design</a
+                    >
+                  </p>
+                </li>
+                <li class="wvlink">
+                  <p class="wv2link">
+                    You can eMail me at shawn@wabashvalleywebdesign.com
+                  </p>
+                </li>
+                <li class="wvlink">
+                  <p class="wvLink">
+                    If you want to learn more about me or my skills please click
+                    on the Social Media Icons below or find me by the usernames
+                    listed:
+                  </p>
+                  <ul class="wv2link">
+                    <li class="wv2link">Linkedin: Shawn Campbell</li>
+                    <li class="wv2link">GitHub: Steelerfan840</li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
             <div class="icons" id="myicons">
               <a href="https://www.linkedin.com/in/shawn-campbell-839543165/">
                 <img
@@ -95,4 +101,3 @@
 
     <script src="scripts.js"></script>
   </body>
-
