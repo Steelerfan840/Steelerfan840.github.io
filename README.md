@@ -34,7 +34,7 @@
           </div>
           <div class="pic">
             <img
-              src="https://www.shawnweb.net/images/shawn2.jpg"
+              src="https://www.shawnweb.net/images/me2.jpg"
               class="selfie"
             />
           </div>
